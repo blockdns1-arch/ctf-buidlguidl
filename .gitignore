@@ -21,3 +21,7 @@ node_modules
 
 # cli
 dist
+
+# local run logs / helper wrappers
+*.log
+run_*.cmd
